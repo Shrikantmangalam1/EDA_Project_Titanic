@@ -137,13 +137,14 @@ Ensure train.csv and test.csv are in the same directory
 🔸 Deploy a dashboard using Power BI / Tableau
 🔸 Create an interactive web app
 
-❤️ Connect With Me
+## ❤️ Connect With Me
 
-If you find this project useful, feel free to ⭐ star the repo!
+If you find this project useful, feel free to ⭐ **star the repo**!
 
-📧 Email:
-shrikantmangalam2002@gmail.com
+📧 **Email:**  
+[shrikantmangalam2002@gmail.com](mailto:shrikantmangalam2002@gmail.com)
 
-💼 LinkedIn:
-www.linkedin.com/in/shrikant-mangalam-75148126a
+💼 **LinkedIn:**  
+[www.linkedin.com/in/shrikant-mangalam-75148126a](https://www.linkedin.com/in/shrikant-mangalam-75148126a)
+
 
