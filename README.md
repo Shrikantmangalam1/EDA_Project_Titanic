@@ -136,6 +136,8 @@ Ensure train.csv and test.csv are in the same directory
 🔸 Apply ML models for prediction
 🔸 Deploy a dashboard using Power BI / Tableau
 🔸 Create an interactive web app
+```
+---
 
 ## ❤️ Connect With Me
 
