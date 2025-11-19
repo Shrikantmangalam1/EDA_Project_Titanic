@@ -99,7 +99,7 @@ Passengers from Southampton (S) were mostly 3rd class and had lower survival
 
 Clone the repository
 
-git clone https://github.com/yourusername/Titanic-EDA.git
+git clone [https://github.com/yourusername/Titanic-EDA.git](https://github.com/Shrikantmangalam1/EDA_Project_Titanic/tree/Shrikantmangalam1-EDA-project)
 
 
 Open the notebook in Google Colab or Jupyter Notebook
@@ -122,6 +122,7 @@ Enjoy the insights 🔍
 If you find this project useful, feel free to ⭐ star the repo!
 For suggestions or collaboration:
 
-📧 Email: your-email@example.com
+📧 Email: shrikantmangalam2002@gmail.com
 
-💼 LinkedIn: your-link-here
+💼 LinkedIn: www.linkedin.com/in/shrikant-mangalam-75148126a
+
