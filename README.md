@@ -42,13 +42,13 @@ jupyter notebook EDA_Titanic.ipynb
 ### 1. Univariate Analysis — Age
 
 #### Box Plot – Age (Merged Dataset)
-![Age Boxplot Merged](plots/01_age_boxplot_merged.png)
+![Age Boxplot Merged](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/Box_Plot_merge.png)
 
 #### Box Plot – Age (Train Dataset)
-![Age Boxplot Train]((https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/box_plot_train.png))
+![Age Boxplot Train](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/box_plot_train.png)
 
 #### Age Distribution Histogram
-![Age Histogram](plots/03_age_histogram.png)
+![Age Histogram](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/Age_distribution.png)
 
 > **Insight:** The age distribution is right-skewed. The most common age group was **20–24 years** (160 passengers). Median age was ~28 years. There were **263 missing values** in the Age column.
 
