@@ -45,7 +45,7 @@ jupyter notebook EDA_Titanic.ipynb
 ![Age Boxplot Merged](plots/01_age_boxplot_merged.png)
 
 #### Box Plot – Age (Train Dataset)
-![Age Boxplot Train](plots/02_age_boxplot_train.png)
+![Age Boxplot Train]((https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/box_plot_train.png))
 
 #### Age Distribution Histogram
 ![Age Histogram](plots/03_age_histogram.png)
