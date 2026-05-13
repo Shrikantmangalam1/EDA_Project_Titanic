@@ -57,7 +57,7 @@ jupyter notebook EDA_Titanic.ipynb
 ### 2. Univariate Analysis — Survived
 
 #### Survival Distribution
-![Survival Pie Chart](plots/04_survival_distribution_pie.png)
+![Survival Pie Chart](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/titanic_survival_distribution.png)
 
 > **Insight:** Among passengers with known outcomes, **342 survived** and **549 died**, giving a survival rate of **38.38%**. 418 passengers (test set) had missing survival data (grey slice).
 
@@ -66,10 +66,10 @@ jupyter notebook EDA_Titanic.ipynb
 ### 3. Univariate Analysis — Passenger Class (Pclass)
 
 #### Pclass Histogram
-![Pclass Histogram](plots/05_pclass_histogram.png)
+![Pclass Histogram](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/Passenge_class_distribution.png)
 
 #### Pclass Distribution Pie Chart
-![Pclass Pie](plots/06_pclass_pie.png)
+![Pclass Pie](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/Pclass_Distribution.png)
 
 > **Insight:** More than half the passengers (**54.2%**) travelled in 3rd class. 1st class accounted for 24.7% and 2nd class for 21.2%. No missing values in this column.
 
@@ -78,7 +78,7 @@ jupyter notebook EDA_Titanic.ipynb
 ### 4. Univariate Analysis — Sex
 
 #### Sex Ratio
-![Sex Ratio Pie](plots/07_sex_ratio_pie.png)
+![Sex Ratio Pie](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/Sex_ration.png)
 
 > **Insight:** The passenger manifest was heavily male-dominated — **64.4% male** vs **35.6% female**. No missing values.
 
@@ -87,13 +87,11 @@ jupyter notebook EDA_Titanic.ipynb
 ### 5. Bivariate Analysis — Survived vs Pclass
 
 #### Which class had the most deaths/survivors? (Row-normalised)
-![Survival % per Class Row](plots/08_survival_pct_per_class_row.png)
+![Survival % per Class Row](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/Survival_Percentage_per_Class.png)
 
 > Among all who **died**: 67.76% were from Class 3, 17.67% from Class 2, only 14.57% from Class 1.
 > Among all who **survived**: 39.77% were from Class 1, 34.80% from Class 3, 25.44% from Class 2.
 
-#### What was the survival rate within each class? (Column-normalised)
-![Survival % per Class Col](plots/09_survival_pct_per_class_col.png)
 
 > **Insight:** Survival rates within each class:
 > - Class 1: **62.96% survived**
@@ -105,7 +103,7 @@ jupyter notebook EDA_Titanic.ipynb
 ### 6. Bivariate Analysis — Survived vs Sex
 
 #### Survival Count by Gender
-![Survival by Gender](plots/10_survival_count_by_gender.png)
+![Survival by Gender](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/Survival_countBy_gender.png)
 
 > **Insight:** Gender was one of the strongest predictors of survival.
 > - **74.2% of females survived**
@@ -116,7 +114,7 @@ jupyter notebook EDA_Titanic.ipynb
 ### 7. Bivariate Analysis — Pclass vs Sex
 
 #### Gender Diversity in Each Class
-![Gender Diversity in Class](plots/11_gender_diversity_in_class.png)
+![Gender Diversity in Class](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/Gender_diversity_in_Class.png)
 
 > **Insight:** Class 1 had the highest female proportion (44.6%), while Class 3 was most male-heavy (69.5%).
 
@@ -131,7 +129,7 @@ jupyter notebook EDA_Titanic.ipynb
 ### 8. Children Survival Analysis
 
 #### Were girl children more likely to survive than boy children?
-![Children Survival](plots/12_children_survival.png)
+![Children Survival](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/Childer_Survival_graph.png)
 
 | Sex | Died | Survived |
 |-----|------|----------|
@@ -145,7 +143,7 @@ jupyter notebook EDA_Titanic.ipynb
 ### 9. Bivariate Analysis — Embarked vs Pclass
 
 #### Passenger Diversity over Embarkment Port
-![Embarkment vs Pclass](plots/13_passengers_diversity_embarkment.png)
+![Embarkment vs Pclass](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/passenger_div_emb.png)
 
 | Port | Class 1 | Class 2 | Class 3 |
 |------|---------|---------|---------|
@@ -172,7 +170,6 @@ jupyter notebook EDA_Titanic.ipynb
 ### 11. Multivariate Analysis — Sex + Pclass + Survived
 
 #### Survival % by Gender and Class
-![Survival by Gender and Class](plots/14_survival_pct_by_gender_class.png)
 
 | Sex | Class | Survived % |
 |-----|-------|------------|
@@ -190,7 +187,7 @@ jupyter notebook EDA_Titanic.ipynb
 ### 12. Multivariate Analysis — Family Size + Sex + Survived
 
 #### Family Survival Rate by Gender
-![Family Survival by Gender](plots/15_family_survival_by_gender.png)
+![Family Survival by Gender](https://raw.github.com/Shrikantmangalam1/EDA_Project_Titanic/main/Graphs/Family_survival_wrt_gender.png)
 
 > **Insight:** Across almost all family sizes, females consistently had a higher survival rate than males. The gender advantage was most pronounced in smaller family groups (sizes 1–3).
 
